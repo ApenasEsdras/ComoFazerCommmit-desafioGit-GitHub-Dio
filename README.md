@@ -38,9 +38,11 @@ Estou me desenvolvendo a cada dia na aria de minha formaçao,
  buscando sempre dar o meu melhor em todos os projetos que eu faço.
 
 
-## Autores
+## Autor
 
 - [Esdras Soares](https://github.com/ApenasEsdras/ApenasEsdras)
+
+## Fontes
 
 - [Como fazer bons commits no Git](https://ruanbrandao.com.br/2020/02/04/como-fazer-um-bom-commit/#:~:text=Como%20fazer%20um%20commit%20Fazer%20um%20commit%20tem,not%20staged%20for%20commit%3A%20%28use%20%22git%20add%20%3Cfile%3E...%22)
 - [Atlassian bitbucket](https://www.atlassian.com/br/git/tutorials/learn-git-with-bitbucket-cloud)
